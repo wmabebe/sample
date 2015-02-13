@@ -2,5 +2,7 @@
 //Hello world in C
 void main()
 {
-	printf("Creep dance...\n");
+	int i;
+	for(i=0;i<5;i++)
+		printf("Hello world!\n");
 }
