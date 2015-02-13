@@ -2,5 +2,5 @@
 //Hello world in C
 void main()
 {
-	printf("Mr. Anderson..!");
+	printf("Mr. Anderson..!\n");
 }
